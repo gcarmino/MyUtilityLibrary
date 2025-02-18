@@ -37,6 +37,6 @@ public class Main {
     }
 }
 
-Repository & Download
+Repository and Download
 
 GitHub Repository: MyUtilityLibrary
