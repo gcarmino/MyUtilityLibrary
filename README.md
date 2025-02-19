@@ -1,9 +1,11 @@
 my-utility-library
 
 Overview
+
 my-utility-library is a lightweight Java utility designed to measure the execution time of code blocks for benchmarking and performance analysis. It provides a simple API for integrating performance measurement into Java applications.
 
 Features
+
 -  Simple API for benchmarking execution time
 -  Lightweight and easy to use
 -  Well-documented with Javadoc comments
@@ -12,6 +14,7 @@ Features
 Installation
 
 Maven
+
 ```xml
 <dependency>
     <groupId>com.mylib</groupId>
